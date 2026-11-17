@@ -46,7 +46,7 @@ st.warning(
     "or download unexpected attachments. "
     "SpamShield provides predictions, not guaranteed "
     "security verification.",
-    icon="🚨"
+    icon="⚠️"
 )
 
 
