@@ -4,7 +4,7 @@
 
 The application accepts both manually entered email content and `.eml` email files, making it possible to analyze real email messages through a simple web interface.
 
-🔗 **Live Demo:** https://spamshield-6kyxdxdcuhuha9mnw7gbaz.streamlit.app/
+🔗 **Live Demo:** [Click here to try SpamShield](https://spamshield-6kyxdxdcuhuha9mnw7gbaz.streamlit.app/)
 
 ---
 
